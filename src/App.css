@@ -2,8 +2,6 @@ body {
   background: #f9f8fe;
   padding: 60px 0 100px;
   font-family: "Cerebri-Sans", Helvetica, Arial, sans-serif;
-  width: 900px;
-  margin-left: 280px;
 }
 
 a {
@@ -28,4 +26,8 @@ footer {
 
 footer {
   padding-top: 30px;
+}
+.App {
+  max-width: 900px;
+  margin: 0 auto;
 }
