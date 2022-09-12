@@ -1,3 +1,31 @@
-.App {
+body {
+  background: #f9f8fe;
+  padding: 60px 0 100px;
+  font-family: "Cerebri-Sans", Helvetica, Arial, sans-serif;
+  width: 900px;
+  margin-left: 280px;
+}
+
+a {
+  color: #9670f4;
+}
+
+header {
+  margin: 30px 0;
+}
+
+footer {
   text-align: center;
+  margin: 30px 0;
+}
+h1 {
+  font-size: 52px;
+}
+header,
+footer {
+  text-align: center;
+}
+
+footer {
+  padding-top: 30px;
 }
